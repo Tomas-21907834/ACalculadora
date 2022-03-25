@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ACalculadora</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="adition">+</string>
+    <string name="equals">=</string>
+</resources>
