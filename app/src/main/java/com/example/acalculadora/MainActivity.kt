@@ -32,6 +32,7 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
+
         binding.buttonAdition.setOnClickListener {
             Log.i(TAG, "Click no botão +")
             binding.textVisor.append("+")
